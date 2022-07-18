@@ -1,0 +1,45 @@
+.modal-wrapper{
+    position: fixed;
+    backdrop-filter: blur(10px);
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
+
+.modal-content button{
+    position: relative;
+    top :3px;
+    right: 3.5rem;
+    border-radius: 50%;
+    width: 20px;
+    font-weight: bold;
+cursor: pointer;
+float: right;
+
+}
+.modal-content img {
+    width: 90rem;
+    z-index: -1;
+    height: 60rem;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 835px) {
+    
+    .modal-content img{
+    width: 60rem;
+    height: 45rem;
+    }
+  }
+  
+@media screen and (max-width: 545px) {
+    
+    .modal-content img{
+    width: 40rem;
+    height: 30rem;
+    }
+  }
+  

@@ -1,10 +1,41 @@
-# Getting Started with Create React App
+# Raect Js assignment Board infinity
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**Problem 3:** 
 
-In the project directory, you can run:
+Build a responsive image gallery with image preview 
+
+![image](./public/problemImg/reactProblem8.jpeg)
+
+
+**Note**: Images and details about the people uploading the image can be taken from [Pixabay](https://pixabay.com/) or [Pexels](https://www.pexels.com/). 
+
+**Objective:** 
+
+1. Make a responsive image gallery website using images from [Pixabay](https://pixabay.com/) or [Pexels](https://www.pexels.com/). 
+
+**Note**: You can also use official APIs provided by [Pixabay](https://pixabay.com/api/docs/) for getting a collection of images using API requests. Else download a few images and create a JSON object as image source. 
+
+**Desktop View:** 
+
+![image](./public/problemImg/reactProblem9.jpeg)
+
+
+**Mobile view:** 
+![image](./public/problemImg/reactProblem10.jpeg)
+
+
+2. On clicking on any of the images, a preview should be shown in browser: 
+
+![image](./public/problemImg/reactProblem11.jpeg)
+
+
+**Learnings:** 
+
+`  `How to make a responsive website and modal pop ups in react.js 
+
+
+
 
 ### `npm start`
 
