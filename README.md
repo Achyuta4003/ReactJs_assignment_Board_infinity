@@ -1,10 +1,31 @@
-# Getting Started with Create React App
+# Raect Js assignment Boar infinity
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Problem 01
 
-In the project directory, you can run:
+Build a Body mass index(BMI) calculator 
+
+![image](reactProblem1.jpeg)
+
+**Primary Objective:** 
+
+Build a BMI calculator which provides information about the user as shown below:- 
+
+![image](reactProblem2.jpeg)
+
+
+More information about BMI can be found on wikipedia page:- https://en.wikipedia.org/wiki/Body\_mass\_index
+
+**Learnings:** 
+
+How to apply ***useState*** hook in react.js 
+
+
+
+
+
+
+
 
 ### `npm start`
 
