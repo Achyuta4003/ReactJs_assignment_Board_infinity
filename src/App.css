@@ -2,6 +2,83 @@
   text-align: center;
 }
 
+html {
+  font-size: 62.5%;
+}
+.wrapper{
+  width:60rem;
+  margin: auto;
+}
+.theme {
+  color: white;
+  background-color: #2c70f5;
+}
+
+.heading {
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+.btn {
+  font-size: 2rem;
+  border: none;
+  outline: none;
+  padding: 1rem;
+  font-weight: bold;
+  width: 20rem;
+  cursor: pointer;
+}
+
+
+
+input {
+  width: 18rem;
+  background-color: #e9effe;
+  border: 1px solid gray;
+  padding: 1rem;
+  margin: 1rem;
+  font-weight: bold;
+}
+
+label,p{
+  font-weight: bold;
+  font-size: 2rem;
+  color: #282c34;
+  font-size: 1.75rem;
+}
+
+/* ******************************** CSS for responsive  ********************************** */
+@media screen and (max-width: 650px) {
+  html {
+    font-size: 40%;
+  }
+}
+@media screen and (max-width: 390px) {
+  html {
+    font-size: 30%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -32,6 +109,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
