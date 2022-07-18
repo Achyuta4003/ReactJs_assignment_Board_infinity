@@ -5,7 +5,7 @@
 
 Build a basic shopping cart website with at least 3 items as shown in below picture.  
 
-![image](./problemImg/reactProblem3.jpeg)
+![image](./public/problemImg/reactProblem3.jpeg)
 
 **Primary Objective:** 
 
