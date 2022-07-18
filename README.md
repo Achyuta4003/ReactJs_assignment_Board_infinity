@@ -1,10 +1,42 @@
-# Getting Started with Create React App
+# Raect Js assignment Boar infinity
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**Problem 2:** 
 
-In the project directory, you can run:
+Build a basic shopping cart website with at least 3 items as shown in below picture.  
+
+![image](./problemImg/reactProblem3.jpeg)
+
+**Primary Objective:** 
+
+1. Build a shopping cart with at least 3 items. When user clicks on **Add To Cart** button, the quantity of items in cart present at the top-right section of the page should get incremented 
+
+![image](./problemImg/reactProblem4.jpeg)
+
+
+**Note**: A JSON object/array can be used for storing and retrieving information about items(Information about shirts shown in case of above design). 
+
+2. When user clicks on the cart icon in the top right header section, a dummy cart page should be opened as shown below 
+
+![image](./problemImg/reactProblem5.jpeg)
+
+
+Cart page UI on click of cart button:- 
+
+![image](./problemImg/reactProblem6.jpeg)
+
+
+3. On clicking the remove button in the cart page the item should get removed from the cart:- 
+
+![image](./problemImg/reactProblem7.jpeg)
+
+
+**Learnings:** 
+
+How to use react router and state management in react.js
+
+
+
 
 ### `npm start`
 

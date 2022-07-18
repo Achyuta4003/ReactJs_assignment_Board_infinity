@@ -1,0 +1,75 @@
+
+    [
+        {
+            "id":1,
+            "name":"Cotton Shirt",
+            "price":300,
+            "discountPrice":250,
+            "image":"img1.png"
+            
+        },
+        {
+            "id":2,
+            "name":"White Tshirt",
+            "price":600,
+            "discountPrice":550,
+            "image":"img2.png"
+            
+        },
+        {
+            "id":3,
+            "name":"Full Sleeve Tshirt",
+            "price":250,
+            "discountPrice":200,
+            "image":"img3.png"
+            
+        },
+        {
+            "id":4,
+            "name":"Flowered Tshirt",
+            "price":850,
+            "discountPrice":800,
+            "image":"img4.png"
+            
+        },
+        {
+            "id":5,
+            "name":"Red Polo Tshirt",
+            "price":750,
+            "discountPrice":700,
+            "image":"img5.png"
+            
+        },
+        {
+            "id":6,
+            "name":" Sports Tshirt",
+            "price":350,
+            "discountPrice":300,
+            "image":"img6.png"
+            
+        },
+        {
+            "id":7,
+            "name":"Marathon Tshirt",
+            "price":450,
+            "discountPrice":400,
+            "image":"img7.png"
+            
+        },
+        {
+            "id":8,
+            "name":"Wrestling Tshirt",
+            "price":650,
+            "discountPrice":600,
+            "image":"img8.png"
+            
+        },
+        {
+            "id":9,
+            "name":"Black Legend Tshirt",
+            "price":950,
+            "discountPrice":900,
+            "image":"img9.png"
+            
+        }
+    ]
