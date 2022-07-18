@@ -1,4 +1,4 @@
-# Raect Js assignment Boar infinity
+# Raect Js assignment Board infinity
 
 
 ## Problem 01
