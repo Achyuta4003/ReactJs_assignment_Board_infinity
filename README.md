@@ -1,4 +1,4 @@
-# Raect Js assignment Boar infinity
+# Raect Js assignment Board infinity
 
 
 **Problem 2:** 
@@ -11,24 +11,24 @@ Build a basic shopping cart website with at least 3 items as shown in below pict
 
 1. Build a shopping cart with at least 3 items. When user clicks on **Add To Cart** button, the quantity of items in cart present at the top-right section of the page should get incremented 
 
-![image](./problemImg/reactProblem4.jpeg)
+![image](./public/problemImg/reactProblem4.jpeg)
 
 
 **Note**: A JSON object/array can be used for storing and retrieving information about items(Information about shirts shown in case of above design). 
 
 2. When user clicks on the cart icon in the top right header section, a dummy cart page should be opened as shown below 
 
-![image](./problemImg/reactProblem5.jpeg)
+![image](./public/problemImg/reactProblem5.jpeg)
 
 
 Cart page UI on click of cart button:- 
 
-![image](./problemImg/reactProblem6.jpeg)
+![image](./public/problemImg/reactProblem6.jpeg)
 
 
 3. On clicking the remove button in the cart page the item should get removed from the cart:- 
 
-![image](./problemImg/reactProblem7.jpeg)
+![image](./public/problemImg/reactProblem7.jpeg)
 
 
 **Learnings:** 
