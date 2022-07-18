@@ -5,13 +5,13 @@
 
 Build a Body mass index(BMI) calculator 
 
-![image](reactProblem1.jpeg)
+![image](./public/reactProblem1.jpeg)
 
 **Primary Objective:** 
 
 Build a BMI calculator which provides information about the user as shown below:- 
 
-![image](reactProblem2.jpeg)
+![image](./public/reactProblem2.jpeg)
 
 
 More information about BMI can be found on wikipedia page:- https://en.wikipedia.org/wiki/Body\_mass\_index
